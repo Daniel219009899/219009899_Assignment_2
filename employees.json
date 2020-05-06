@@ -1,0 +1,38 @@
+[
+
+    {
+        "name": "Daniel Elom Akati",
+        "role": "CEO",
+        "id": "001",
+        "email": "daniel@gmail.com",
+        "image":"https://images.unsplash.com/photo-1546672741-d327539d5f13?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "Audrey Akati",
+        "role": "Director (Hr)",
+        "id": "002",
+        "email": "audrey@gmail.com",
+        "image":"https://images.unsplash.com/photo-1517462964-21fdcec3f25b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "Etonam Fafa",
+        "role": "Assistant Dir",
+        "id": "003",
+        "email": "etonam@gmail.com",
+        "image":"https://images.unsplash.com/photo-1542345812-d98b5cd6cf98?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "Ian Akati",
+        "role": "IT Manager",
+        "id": "004",
+        "email": "ian@gmail.com",
+        "image":"https://images.unsplash.com/photo-1542973748-658653fb3d12?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "David Oto",
+        "role": "Marketing",
+        "id": "005",
+        "email": "david@gmail.com",
+        "image":"https://images.unsplash.com/photo-1548543604-a87c9909abec?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+    }
+]
